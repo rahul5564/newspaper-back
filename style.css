@@ -1,0 +1,100 @@
+*{
+    box-sizing: border-box;
+}
+.hr{
+    color: black;
+    border: 1px solid black;
+    padding: 0px;
+    margin: 0px;
+}
+.hr1{
+    color: black;
+    border: 1px solid black;
+    margin-bottom: 10px;
+}
+.right{
+    text-align: right;
+    font-size: 10px;
+}
+.inline{
+    display: inline;
+}
+.left{
+    text-align: left;
+}
+.main-heading{
+    text-align: center;
+    font-weight: bold;
+    box-shadow: 3px 3px 8px #f5f5f5;
+}
+.hr-head{
+    text-align: center;
+}
+#img-4{
+    background-image: url("https://bsmedia.business-standard.com/_media/bs/img/article/2021-02/26/full/1614333748-0101.jpg");
+     background-repeat: no-repeat;
+    /* background-size: cover;
+    width: 1100px; */
+    height: 520px;
+}
+/* #content{
+    width: 400px;
+    height: 520px;
+    /* float: left; */
+.content-1{
+    color: black;
+    font-weight: bold;
+    border: 1px solid red;
+    background-color: red;
+    padding:2px 1px;
+}
+.clear{
+    clear: both;
+}
+#last-1{
+    width: 300px;
+    height: 200px;
+    font-weight: bold;
+}
+#last-2{
+    width: 300px;
+    height: 200px;
+    font-weight: bold;
+}
+#last-3{
+    width: 300px;
+    height: 200px;
+    font-weight: bold;
+}
+.lower-pic{
+    width: 950px;
+    height: 200px;
+}
+.red{
+    color: white;
+    font-size: larger;
+    background-color: red;
+}
+.middle-last{
+    text-align: center;
+}
+.middle-line{
+    line-height: 2vh;
+    width: 300px;
+    color: green;
+    background-color: green;
+}
+#img-2{
+    background-image: url('https://images.news18.com/ibnlive/uploads/2020/07/1594881119_news18_default_image.jpg?impolicy=website&width=534&height=356');
+    height: 30vh;
+}
+.td{
+    color: white;
+    font-weight: bold;
+    border: 1px solid black;
+    background-color: red;
+    position: absolute;
+    left: 20px;
+    top: -23px;
+    /* display: inline; */
+}
